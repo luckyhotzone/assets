@@ -1,0 +1,10 @@
+"name": "Lucky Coin",
+    "symbol": "LUCK",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "Lucky Coin is a community-driven cryptocurrency aiming to bring luck and value to its holders.",
+    "website": "https://luckycoin.app",
+    "explorer": "https://bscscan.com/token/0x2d5e17455409cf7c70a34f5c81917c9deea50f96",
+    "status": "active",
+    "id": "0x2d5e17455409cf7c70a34f5c81917c9deea50f96"
+}
